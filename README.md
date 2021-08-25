@@ -9,8 +9,11 @@ Main Features:
 
 ##### 🔨Technologies: Swift, Firebase, Cloud Functions & Javascript, Push Notifications, BerkeleyTime API, AgoraKit, Facebook Reactions
 ##### 🚀Platform: 📱iOS
-##### 🚀Github: https://github.com/IsabellaLR/Sponnect19
 <img width="971" alt="circalPortfolio" src="https://user-images.githubusercontent.com/41020211/130550629-ff823dc8-be4a-43d8-a5c1-b327cdcd6ad2.png">
+
+https://user-images.githubusercontent.com/41020211/130735525-8b9e1305-74d1-4e44-862c-971a14bd939a.mov
+
+https://user-images.githubusercontent.com/41020211/130735549-988cee7c-eda4-4dfb-9bdc-b9a72f348161.mov
 
 ## Water We Doin
 Latest estimates reveal that 3 in 10 people worldwide could not wash their hands with soap and water at home during the COVID-19 pandemic. According to WHO and UNICEF, billions of people will lack access to safe water, sanitation and hygiene in 2030 unless progress quadruples.
@@ -30,12 +33,11 @@ Main Features - for data visualization:
 
 ##### 🔨Technologies: Java, Firestore, animations, Graph API, Google Places API, heatmap
 ##### 🚀Platform: 📱Android
-##### 🚀Github: https://github.com/IsabellaLR/Sponnect19
 
 <img width="1001" alt="Screen Shot 2021-08-23 at 9 55 00 PM" src="https://user-images.githubusercontent.com/41020211/130560320-f84bd926-c1c1-4a1d-9a48-af4d2bbc2731.png">
 
 ## BlossomVR Companion App
-[BlossomVR](https://apps.apple.com/us/app/circal/id1521977182) is a VR game set in a world in which through biofeedback, players perform meditative activites ranging from tai chi to progressive muscle relaxation. Players restore various life forms that respond to their heart rate, breathing patterns, and more. The startup is part of Oculus Launchpad, FreenVentures, and XR @ Berkeley. 
+[BlossomVR](https://blossomvr.com/) is a VR game set in a world in which through biofeedback, players perform meditative activites ranging from tai chi to progressive muscle relaxation. Players restore various life forms that respond to their heart rate, breathing patterns, and more. The startup is part of Oculus Launchpad, FreenVentures, and XR @ Berkeley. 
 
 The mobile companion app is an iOS & Apple Watch app that syncs biofeedback data (e.g., heart rate from the apple watch) of players during their interaction with the game. This data is sent to Firebase and recieved on the Unity end to adjust the dynamic visuals and life forms the players are interacting with in the VR game.
 
