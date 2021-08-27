@@ -1,3 +1,8 @@
+<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/41020211/131046424-642d1e69-c6a9-44e3-bf28-57974302c69f.png"> 
+
+Hello! I'm a ****CS + Bio**** major at UC Berkeley. I'm an ****iOS**** (Swift) and ****Android**** (Java) developer. I started making apps during my Freshman year of college. I launched and demoed my first app at Make School Summer Academy, where I learned Swift programming. Since then, I've created and released many apps for fun, like a Game of Thrones betting app. Here are some recent projects I created!
+<br clear="left"/>
+
 ## Circal
 Often, college students miss out on making connections with people outside of their class schedule and routine. [Circal](https://apps.apple.com/us/app/circal/id1521977182) is an iOS app that gives university students the ability to explore and connect with students both at their school & colleges across the country.
 
@@ -8,6 +13,7 @@ Main Features:
 - Video chat through a "live match" feature with a random student. Each time a student presses next, they'll be paired with a new student currently using the feature.
 
 ##### 🔨Technologies: Swift, Firebase, Cloud Functions & Javascript, Push Notifications, BerkeleyTime API, AgoraKit, Facebook Reactions
+##### 👾Role & Timeframe: Sole Developer. Worked on app as hobby from August 2020-May 2021
 ##### 🚀Platform: 📱iOS
 <img width="971" alt="circalPortfolio" src="https://user-images.githubusercontent.com/41020211/130550629-ff823dc8-be4a-43d8-a5c1-b327cdcd6ad2.png">
 
@@ -32,9 +38,12 @@ Main Features - for data visualization:
 - Swipe the displayed stats to see a graph form of the data
 
 ##### 🔨Technologies: Java, Firestore, animations, Graph API, Google Places API, heatmap
+##### 👾Role & Timeframe: All Firestore functionality, backend, heatmap, map UI and interactivity, handling data/numbers for screens, dates for recent intake graphs. Made app with 2 interns at Facebook University in 4 weeks
 ##### 🚀Platform: 📱Android
 
 <img width="1001" alt="Screen Shot 2021-08-23 at 9 55 00 PM" src="https://user-images.githubusercontent.com/41020211/130560320-f84bd926-c1c1-4a1d-9a48-af4d2bbc2731.png">
+
+https://user-images.githubusercontent.com/41020211/131047127-60c9110a-3a84-4f6a-8081-ef99fd03d73a.mov
 
 ## BlossomVR Companion App
 [BlossomVR](https://blossomvr.com/) is a VR game set in a world in which through biofeedback, players perform meditative activites ranging from tai chi to progressive muscle relaxation. Players restore various life forms that respond to their heart rate, breathing patterns, and more. The startup is part of Oculus Launchpad, FreenVentures, and XR @ Berkeley. 
@@ -42,6 +51,7 @@ Main Features - for data visualization:
 The mobile companion app is an iOS & Apple Watch app that syncs biofeedback data (e.g., heart rate from the apple watch) of players during their interaction with the game. This data is sent to Firebase and recieved on the Unity end to adjust the dynamic visuals and life forms the players are interacting with in the VR game.
 
 ##### 🔨Technologies: Swift, watchOS, HealthKit
+##### 👾Role & Timeframe: Sole Developer. Spring 2021.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS
 
 https://user-images.githubusercontent.com/41020211/130571683-7f0be8b5-fedc-4f7e-8da6-1b9205ae7fd3.mov
