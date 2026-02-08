@@ -5,9 +5,6 @@
 I started making apps during my Freshman year of college after participating in the Make School Summer Academy, where I launched and demoed my first app. Since then, I've created and released many apps for fun. My recent app, HaiBella, uses newer Swift technologies and is powered by AI to provide a unique language learning experience to build vocabulary more effectively. I use it myself daily to improve my Mandarin! Here are some past projects I created!
 <br clear="left"/>
 
-I started making apps during my Freshman year of college after participating in the Make School Summer Academy, where I launched and demoed my first app. Since then, I've created and released many apps for fun. My recent app, HaiBella, uses newer Swift technologies and is powered by AI to provide a unique language learning experience to build vocabulary more effectively. I use it myself daily to improve my Mandarin! Here are some past projects I created!
-<br clear="left"/>
-
 ## [HaiBella](https://apps.apple.com/us/app/haibella-smart-vocab-learning/id6751126579)
 Ever wondered how fast you could learn vocabulary while chatting if you could just say words you don't know in your native language, and automatically save those words for review? HaiBella does that for you. As you chat in mixed language in chats tailored to your skill level, get instant corrections with new vocabulary automatically saved from your messages or manually saved from your tutor's messages for Spaced Repetition Review! Reviews show the exact sentence the word came from in your chats, helping you utilize the power of the [Generation Effect](https://en.wikipedia.org/wiki/Generation_effect) to learn vocabulary effectively!
 
