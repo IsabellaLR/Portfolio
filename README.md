@@ -1,10 +1,12 @@
-<img align="left" width="125" height="125" src="https://user-images.githubusercontent.com/41020211/131046424-642d1e69-c6a9-44e3-bf28-57974302c69f.png"> 
+<img width="2000" height="600" alt="PortfolioHeader" src="https://github.com/user-attachments/assets/e531c3cf-df5c-4b4a-a047-dc97bd816d5a" />
 
-Hello! I'm a ****CS + Bio**** major at UC Berkeley. I'm an ****iOS**** (Swift) and ****Android**** (Java) developer. I started making apps during my Freshman year of college. I launched and demoed my first app at Make School Summer Academy, where I learned Swift programming. Since then, I've created and released many apps for fun, like a Game of Thrones betting app. Here are some recent projects I created!
+👋 **Hello! I am an iOS engineer with experience building applications that utilize modern AI technology and have been installed by thousands of users. I also have Android experience and am a ML enthusiast. I majored in both Biology + Computer Science at UC Berkeley, and minored in Chinese Language.**
+
+I started making apps during my Freshman year of college after participating in the Make School Summer Academy, where I launched and demoed my first app. Since then, I've created and released many apps for fun. My recent app, HaiBella, uses newer Swift technologies and is powered by AI to provide a unique language learning experience to build vocabulary more effectively. I use it myself daily to improve my Mandarin! Here are some past projects I created!
 <br clear="left"/>
 
 ## Circal
-Often, college students miss out on making connections with people outside of their class schedule and routine. [Circal](https://apps.apple.com/us/app/circal/id1521977182) is an iOS app that gives university students the ability to explore and connect with students both at their school & colleges across the country.
+Often, college students miss out on making connections with people outside of their class schedule and routine. Circal is an iOS app that gives university students the ability to explore and connect with students both at their school & colleges across the country.
 
 Main Features: 
 - Discover peers with similar interests and hobbies, or in the same classes, major, dorm, etc. through a discovery page with a search bar; it can be used to query for student profiles that include the searched keyword such as "Immunology".
@@ -24,7 +26,7 @@ https://user-images.githubusercontent.com/41020211/130735549-988cee7c-eda4-4dfb-
 ## Water We Doin
 Latest estimates reveal that 3 in 10 people worldwide could not wash their hands with soap and water at home during the COVID-19 pandemic. According to WHO and UNICEF, billions of people will lack access to safe water, sanitation and hygiene in 2030 unless progress quadruples.
 
-[Water We Doin](https://play.google.com/store/apps/details?id=com.Global.water&hl=en_US) is an Android app that lets scientists track global water accessibility, and users record their amount of daily water consumption. This app serves as a tool for both data collection and visualization. We hope organizations can utilize this data in a meaningful way and, in the future, provide better analysis and water services, especially for areas facing water scarcity.
+Water We Doin is an Android app that lets scientists track global water accessibility, and users record their amount of daily water consumption. This app serves as a tool for both data collection and visualization. We hope organizations can utilize this data in a meaningful way and, in the future, provide better analysis and water services, especially for areas facing water scarcity.
 
 Main Features - for data collection: 
 - Select from different custom-animated and volume-calculated water containers (e.g., jugs, cans, plastic bottles)
@@ -46,7 +48,7 @@ Main Features - for data visualization:
 https://user-images.githubusercontent.com/41020211/131047127-60c9110a-3a84-4f6a-8081-ef99fd03d73a.mov
 
 ## BlossomVR Companion App
-[BlossomVR](https://blossomvr.com/) is a VR game set in a world in which through biofeedback, players perform meditative activites ranging from tai chi to progressive muscle relaxation. Players restore various life forms that respond to their heart rate, breathing patterns, and more. The startup is part of Oculus Launchpad, FreenVentures, and XR @ Berkeley. 
+BlossomVR is a VR game set in a world in which through biofeedback, players perform meditative activites ranging from tai chi to progressive muscle relaxation. Players restore various life forms that respond to their heart rate, breathing patterns, and more. The startup is part of Oculus Launchpad, FreenVentures, and XR @ Berkeley. 
 
 The mobile companion app is an iOS & Apple Watch app that syncs biofeedback data (e.g., heart rate from the apple watch) of players during their interaction with the game. This data is sent to Firebase and recieved on the Unity end to adjust the dynamic visuals and life forms the players are interacting with in the VR game.
 
