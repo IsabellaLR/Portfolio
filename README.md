@@ -1,9 +1,28 @@
 <img width="2000" height="600" alt="PortfolioHeader" src="https://github.com/user-attachments/assets/e531c3cf-df5c-4b4a-a047-dc97bd816d5a" />
 
-👋 **Hello! I am an iOS engineer with experience building applications that utilize modern AI technology and have been installed by thousands of users. I also have Android experience and am a ML enthusiast. I majored in both Biology + Computer Science at UC Berkeley, and minored in Chinese Language.**
+### 👋 Hello! I am an iOS engineer with experience building applications that utilize modern AI technology and have been installed by thousands of users. I also have Android experience and am an ML enthusiast. I majored in both Biology + Computer Science at UC Berkeley, and minored in Chinese Language. ###
 
 I started making apps during my Freshman year of college after participating in the Make School Summer Academy, where I launched and demoed my first app. Since then, I've created and released many apps for fun. My recent app, HaiBella, uses newer Swift technologies and is powered by AI to provide a unique language learning experience to build vocabulary more effectively. I use it myself daily to improve my Mandarin! Here are some past projects I created!
 <br clear="left"/>
+
+I started making apps during my Freshman year of college after participating in the Make School Summer Academy, where I launched and demoed my first app. Since then, I've created and released many apps for fun. My recent app, HaiBella, uses newer Swift technologies and is powered by AI to provide a unique language learning experience to build vocabulary more effectively. I use it myself daily to improve my Mandarin! Here are some past projects I created!
+<br clear="left"/>
+
+## [HaiBella](https://apps.apple.com/us/app/haibella-smart-vocab-learning/id6751126579)
+Ever wondered how fast you could learn vocabulary while chatting if you could just say words you don't know in your native language, and automatically save those words for review? HaiBella does that for you. As you chat in mixed language in chats tailored to your skill level, get instant corrections with new vocabulary automatically saved from your messages or manually saved from your tutor's messages for Spaced Repetition Review! Reviews show the exact sentence the word came from in your chats, helping you utilize the power of the [Generation Effect](https://en.wikipedia.org/wiki/Generation_effect) to learn vocabulary effectively!
+
+Main Features: 
+- Chat with an AI tutor about a topic or scenario in mixed language with difficulty specific to selected language level. Get automatic corrections for chats, and translated vocabulary automatically saved for review.
+- Tap individual words in chat messsages to see their translations and manually save them for review if desired. View translations for all words in DictionaryMode UI.
+- Review words tracked via Spaced Repetition System in flashcards, with its translation, pronunciation if applicable, and original sentence, marking the word as known or unknown until mastered.
+- Set goals to master a certain number of words by a selected date, with daily instructions to stay on track, and automatic tracking of key metrics for accurate estimation of goal achievability and time commitment.
+- Customization of chat settings such as formality/style (e.g. casual, formal, Gen Z, flirty), audio speed, difficulty, etc.
+
+##### 🔨Technologies: SwiftUI, SwiftData, ChatGPT API, Gemini API, Google Cloud Speech-to-Text API, Google Cloud Text-to-Speech API, AVFoundation, URLSession, StoreKit
+##### 👾Role & Timeframe: Sole Developer. Built app from scratch from September 2025-December 2025.
+##### 🚀Platform: 📱iOS
+
+<img width="1353" height="906" alt="Screenshot 2026-02-08 at 1 47 47 PM" src="https://github.com/user-attachments/assets/1369e488-fb44-4591-8837-9f8f972e970d" />
 
 ## Circal
 Often, college students miss out on making connections with people outside of their class schedule and routine. Circal is an iOS app that gives university students the ability to explore and connect with students both at their school & colleges across the country.
