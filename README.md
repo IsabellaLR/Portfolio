@@ -34,7 +34,7 @@ Main Features:
 - Video chat through a "live match" feature with a random student. Each time a student presses next, they'll be paired with a new student currently using the feature.
 
 ##### 🔨Technologies: Swift, Firebase, Cloud Functions & Javascript, Push Notifications, BerkeleyTime API, AgoraKit, Facebook Reactions
-##### 👾Role & Timeframe: Sole Developer. Worked on app as hobby from August 2020-May 2021
+##### 👾Role & Timeframe: Sole Developer. Worked on app as hobby and to provide social connection to Berkeley students during Covid from August 2020-May 2021
 ##### 🚀Platform: 📱iOS
 <img width="971" alt="circalPortfolio" src="https://user-images.githubusercontent.com/41020211/130550629-ff823dc8-be4a-43d8-a5c1-b327cdcd6ad2.png">
 
