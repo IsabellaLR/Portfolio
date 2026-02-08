@@ -11,8 +11,8 @@ Ever wondered how fast you could learn vocabulary while chatting if you could ju
 Main Features: 
 - Chat with an AI tutor about a topic or scenario in mixed language with difficulty specific to selected language level. Get automatic corrections for chats, and translated vocabulary automatically saved for review.
 - Tap individual words in chat messsages to see their translations and manually save them for review if desired. View translations for all words in DictionaryMode UI.
-- Review words tracked via Spaced Repetition System in flashcards, with its translation, pronunciation if applicable, and original sentence, marking the word as known or unknown until mastered.
-- Set goals to master a certain number of words by a selected date, with daily instructions to stay on track, and automatic tracking of key metrics for accurate estimation of goal achievability and time commitment.
+- Review words saved via Spaced Repetition System in flashcards, with their translations, pronunciations if applicable, and original sentences, marking them as known or unknown until mastered.
+- Set goals to master a certain number of words by a selected date, with daily instructions to stay on track, and automatic analysis of key metrics for accurate estimation of goal achievability and time commitment.
 - Customization of chat settings such as formality/style (e.g. casual, formal, Gen Z, flirty), audio speed, difficulty, etc.
 
 ##### 🔨Technologies: SwiftUI, SwiftData, ChatGPT API, Gemini API, Google Cloud Speech-to-Text API, Google Cloud Text-to-Speech API, AVFoundation, URLSession, StoreKit
